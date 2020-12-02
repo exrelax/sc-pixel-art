@@ -1,0 +1,31 @@
+
+# system files
+*Thumbs.db
+*DS_Store
+
+# editor settings
+*.sublime-workspace
+.idea/*
+
+# node and Sass folders
+*node_modules
+*.sass-cache
+
+# Caching, mapping and temporary files
+*.cache
+*.map
+src/.temp
+
+# Environment
+.env
+.env.*
+
+# Build and dist directory
+dist/*
+build/*
+dest/*
+dummy/*
+
+# Log files
+*.log
+logs/*.log
