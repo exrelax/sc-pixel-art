@@ -11,6 +11,7 @@ whatever you want (see [license](#license)).
 | Anvil F8C                     | ![Anvil F8C](./png/anvil-f8c-112x112.png "anvil-f8c-112x112.png")                                                            | |
 | C.O. Nomad                    | ![C.O. Nomad](./png/co-nomad-112x112.png "co-nomad-112x112.png")                                                             | |
 | Crusader Mercury Star Runner  | ![Crusader Mercury Star Runner](./png/crusader-mercury-star-runner-112x112.png "crusader-mercury-star-runner-112x112.png")   | ![Crusader Mercury Star Runner](./png/crusader-mercury-star-runner-exhaust-112x112.png "crusader-mercury-star-runner-exhaust-112x112.png") |
+| Crusader Mercury Star Runner Pirate Skin | ![Crusader Mercury Star Runner Pirate Skin](./png/crusader-mercury-star-runner-pirate-112x112.png "crusader-mercury-star-runner-pirate-112x112.png")   | ![Crusader Mercury Star Runner](./png/crusader-mercury-star-runner-pirate-exhaust-112x112.png "crusader-mercury-star-runner-pirate-exhaust-112x112.png") |
 
 ## License
 
